@@ -1,0 +1,19 @@
+*.aedtresults
+*.lock
+*.log
+*.cache
+*.autosave
+# HFSS generated files
+*.hfssresults/
+*.tmp
+*.semaphore
+*.asol
+*.nvc
+*.evtrs
+*.sd
+
+# Cache / temp folders
+mf_*/
+GeometryCache/
+radfld/
+svcache/
