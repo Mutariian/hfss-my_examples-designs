@@ -39,7 +39,7 @@
               </KEY>
             </KEYS>
             <VALUES>
-              <VALUE ObjectName="windowPos" Value="0 3 -32000 -32000 -1 -1 0 0 400 400" ValueType="2"/>
+              <VALUE ObjectName="windowPos" Value="0 1 0 0 -1 -1 0 0 400 400" ValueType="2"/>
             </VALUES>
           </KEY>
           <KEY ObjectName="ToolBarPlacement" RegObjectType="0">
