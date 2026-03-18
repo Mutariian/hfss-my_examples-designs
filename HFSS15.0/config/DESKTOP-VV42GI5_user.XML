@@ -39,7 +39,7 @@
               </KEY>
             </KEYS>
             <VALUES>
-              <VALUE ObjectName="windowPos" Value="0 1 0 0 -1 -1 0 0 400 400" ValueType="2"/>
+              <VALUE ObjectName="windowPos" Value="0 1 0 0 -1 -1 0 0 805 566" ValueType="2"/>
             </VALUES>
           </KEY>
           <KEY ObjectName="ToolBarPlacement" RegObjectType="0">
@@ -169,6 +169,7 @@
           <VALUE ObjectName="Driven Solution Setup" Value="131,97,620,648" ValueType="2"/>
           <VALUE ObjectName="Edit Frequency Sweep" Value="616,126,1265,619" ValueType="2"/>
           <VALUE ObjectName="Lumped Port" Value="102,133,600,611" ValueType="2"/>
+          <VALUE ObjectName="Wave Port" Value="135,128,633,606" ValueType="2"/>
         </VALUES>
       </KEY>
       <KEY ObjectName="FieldsPostProcessor" RegObjectType="0">
