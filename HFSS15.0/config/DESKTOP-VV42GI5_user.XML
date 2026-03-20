@@ -39,7 +39,7 @@
               </KEY>
             </KEYS>
             <VALUES>
-              <VALUE ObjectName="windowPos" Value="0 1 0 0 -1 -1 0 0 805 566" ValueType="2"/>
+              <VALUE ObjectName="windowPos" Value="0 1 -32000 -32000 -1 -1 0 0 805 566" ValueType="2"/>
             </VALUES>
           </KEY>
           <KEY ObjectName="ToolBarPlacement" RegObjectType="0">
@@ -328,7 +328,31 @@
                           </KEY>
                         </KEYS>
                       </KEY>
+                      <KEY ObjectName="Grid" RegObjectType="0">
+                        <KEYS>
+                          <KEY ObjectName="GridColumnWidths" RegObjectType="0">
+                            <VALUES>
+                              <VALUE ObjectName="Item0" Value="Name1;60" ValueType="2"/>
+                              <VALUE ObjectName="Item1" Value="Value1;30" ValueType="2"/>
+                              <VALUE ObjectName="NumItems" Value="2" ValueType="4"/>
+                            </VALUES>
+                          </KEY>
+                        </KEYS>
+                      </KEY>
                       <KEY ObjectName="HFSS" RegObjectType="0">
+                        <KEYS>
+                          <KEY ObjectName="GridColumnWidths" RegObjectType="0">
+                            <VALUES>
+                              <VALUE ObjectName="Item0" Value="Name1;60" ValueType="2"/>
+                              <VALUE ObjectName="Item1" Value="Value1;30" ValueType="2"/>
+                              <VALUE ObjectName="Item2" Value="Unit1;40" ValueType="2"/>
+                              <VALUE ObjectName="Item3" Value="Evaluated Value1;84" ValueType="2"/>
+                              <VALUE ObjectName="NumItems" Value="4" ValueType="4"/>
+                            </VALUES>
+                          </KEY>
+                        </KEYS>
+                      </KEY>
+                      <KEY ObjectName="Marker" RegObjectType="0">
                         <KEYS>
                           <KEY ObjectName="GridColumnWidths" RegObjectType="0">
                             <VALUES>
