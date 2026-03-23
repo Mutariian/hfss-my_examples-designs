@@ -39,7 +39,7 @@
               </KEY>
             </KEYS>
             <VALUES>
-              <VALUE ObjectName="windowPos" Value="0 1 -32000 -32000 -1 -1 0 0 805 566" ValueType="2"/>
+              <VALUE ObjectName="windowPos" Value="0 1 -32000 -32000 -1 -1 0 0 775 566" ValueType="2"/>
             </VALUES>
           </KEY>
           <KEY ObjectName="ToolBarPlacement" RegObjectType="0">
@@ -271,6 +271,17 @@
                             <VALUES>
                               <VALUE ObjectName="Item0" Value="Name1;60" ValueType="2"/>
                               <VALUE ObjectName="Item1" Value="Value1;37" ValueType="2"/>
+                              <VALUE ObjectName="NumItems" Value="2" ValueType="4"/>
+                            </VALUES>
+                          </KEY>
+                        </KEYS>
+                      </KEY>
+                      <KEY ObjectName="Axis" RegObjectType="0">
+                        <KEYS>
+                          <KEY ObjectName="GridColumnWidths" RegObjectType="0">
+                            <VALUES>
+                              <VALUE ObjectName="Item0" Value="Name1;60" ValueType="2"/>
+                              <VALUE ObjectName="Item1" Value="Value1;30" ValueType="2"/>
                               <VALUE ObjectName="NumItems" Value="2" ValueType="4"/>
                             </VALUES>
                           </KEY>
